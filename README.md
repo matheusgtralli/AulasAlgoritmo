@@ -1,4 +1,4 @@
-# AulasAlgoritmo
+# aulas-algoritmo
 
 In this repository, you are going to find exercises developed during algorithm classes that happened during my "System Analysis and Development" degree.
 
